@@ -1,6 +1,7 @@
 # Unity-Inspector-Highlighter
 
-Add MonoBehaviourInspector.cs To Your Editor Folder.
+Copy it to your editor folder.
 
 Then,
 
+![](example.gif)
